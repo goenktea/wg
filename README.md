@@ -1,0 +1,2 @@
+# wg
+setup wireguard
